@@ -1,0 +1,37 @@
+
+public class Entier
+{
+	int a;
+	short b;
+	long c;
+	
+	public Entier(int a, short b, long c)
+	{
+		this.a = a;
+		this.b = b;
+		this.c = c;
+	}
+	public int getA()
+	{
+		return a;
+	}
+	public short  getB()
+	{
+		return b;
+	}
+	public long getC()
+	{
+		return c;
+	}
+	public int setA(int val)
+	{
+		this.a= val;
+	}
+	public long Somme(int a, long c )
+	{
+		long s;
+		s= (long)a+b;
+		return s;
+	}
+
+}

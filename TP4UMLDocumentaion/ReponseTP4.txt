@@ -1,0 +1,14 @@
+1-La documentation générée peut être hautement technique, et est principalement utilisée 
+pour définir et expliquer les interfaces de programmation (APIs), les structures de données
+ et les algorithmes. Par exemple, on peut utiliser cette documentation pour expliquer 
+que la variable m_name se réfère au premier et au dernier nom d'une personne. 
+Il est important pour les documents sur le code d'être précis, mais pas non plus verbeux 
+à un point tel qu'il serait difficile de les maintenir.
+
+L'avantage d'un générateur de documentation à partir du code source est 
+la proximité du code source avec sa documentation codée sous forme de commentaires. 
+Le programmeur peut alors l'écrire en se référant à son code, et peut utiliser les mêmes 
+outils que ceux qu'il a utilisés pour développer le code source, pour faire la 
+documentation. Cela rend beaucoup plus facile la mise à jour de la documentation
+
+2-logiciels de documention: javadoc,doxygen,Docutils : plutôt pour Python

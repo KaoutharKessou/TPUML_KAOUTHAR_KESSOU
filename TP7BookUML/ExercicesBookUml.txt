@@ -1,0 +1,14 @@
+diagramme d etat
+diagramme de deploiment
+diagramme de classe
+diagramme de cas d Utilisation
+diagramme de sequence
+
+Question : Distinger les diagrammes Statiques/Dynamiques?
+Question : Savoir l utilite dce chaque diagramme? 
+Reponse : Cours BookUML.
+page 36 a 45 ( a la maison)
+page 67 a 72(a la maison)
+page 78 a 80()
+page 102 a 104
+page 106
